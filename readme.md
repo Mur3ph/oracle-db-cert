@@ -100,6 +100,6 @@
 2. [Oracle Database 12c 2-Day DBA Series] (https://apexapps.oracle.com/pls/apex/f?p=44785%3A24%3A7796218118124%3A%3A%3A%3AP24_CONTENT_ID%2CP24_PREV_PAGE%3A6282%2C24)
 3. [Oracle University] (https://rmdc-twvpn-1.oraclevpn.com/+CSCOE+/logon.html)
   * [iLearning Training] (http://my.oracle.com/content/web/CNT244762)
- 
+4. [Live SQL Content] (https://livesql.oracle.com/apex/livesql/file/toc.html)
   
   
