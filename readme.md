@@ -88,7 +88,8 @@
 
 ## Certification:
 
-1. [Oracle Database 12c Associate] (https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:248&p_org_id=1001&lang=US#tabs-1)
+1. [Oracle Database Certification path (diagram)] (http://education.oracle.com/pls/web_prod-plq-dad/ou_product_category.getPage?p_cat_id=385)
+2. [Oracle Database 12c Associate] (https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=654&get_params=p_id:248&p_org_id=1001&lang=US#tabs-1)
   * [Oracle Database 12c: SQL Fundamentals] (http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-061) 
   * [Oracle Database 12c Administration] (http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-075)
   * [Best Database Certifications For 2017] (http://www.tomsitpro.com/articles/database-certifications,2-664.html)	
@@ -100,6 +101,7 @@
 2. [Oracle Database 12c 2-Day DBA Series] (https://apexapps.oracle.com/pls/apex/f?p=44785%3A24%3A7796218118124%3A%3A%3A%3AP24_CONTENT_ID%2CP24_PREV_PAGE%3A6282%2C24)
 3. [Oracle University] (https://rmdc-twvpn-1.oraclevpn.com/+CSCOE+/logon.html)
   * [iLearning Training] (http://my.oracle.com/content/web/CNT244762)
+  * [Online Self Study courses] (https://rmdc-twvpn-1.oraclevpn.com/+CSCO+0h756767633A2F2F7A6C2E62656E7079722E70627A++/content/web/cnt1264752)
 4. [Live SQL Content] (https://livesql.oracle.com/apex/livesql/file/toc.html)
   
   
