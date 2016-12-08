@@ -66,6 +66,7 @@
 3. [SQL Pocket Guide] 	(http://shop.oreilly.com/product/0636920013471.do)
 4. [SQL Cookbook] 		(http://shop.oreilly.com/product/9780596009762.do)
 5. [Unix for Oracle DBAs Pocket Reference] (https://www.amazon.com/Unix-Oracle-DBAs-Pocket-Reference-ebook/dp/B0026OR2VS/ref=sr_1_3?s=books&ie=UTF8&qid=1478778363&sr=1-3&keywords=Oracle+dba+scripts)	
+6. [Safari] (http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
 
 
 ## Video:
@@ -84,6 +85,7 @@
 12. [OTN Database Community] (https://www.youtube.com/user/OTNDatabasechannel/videos)
 13. [MIT: Signal Processing on Databases] (https://www.youtube.com/watch?v=zNGKX-4PRsk&list=PLUl4u3cNGP62DPmPLrVyYfk3-Try_ftJJ)
 14. [Stanford: Database class] (https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
+15. [Safari] (http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
 
 
 ## Certification:
@@ -103,5 +105,6 @@
   * [iLearning Training] (http://my.oracle.com/content/web/CNT244762)
   * [Online Self Study courses] (https://rmdc-twvpn-1.oraclevpn.com/+CSCO+0h756767633A2F2F7A6C2E62656E7079722E70627A++/content/web/cnt1264752)
 4. [Live SQL Content] (https://livesql.oracle.com/apex/livesql/file/toc.html)
+5. [Safari] (http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
   
   
