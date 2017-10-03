@@ -61,12 +61,13 @@
 
 ## Books:
 
-1. [Book: The Method R Guide to Mastering Oracle Trace Data, Second Edition] (https://books.google.ie/books?id=f---DAEACAAJ&dq=he+Method+R+Guide+to+MASTERING+ORACLE+TRACE+DATA&hl=en&sa=X&ved=0ahUKEwj60f-qu6jQAhVoIcAKHQYQDAIQ6AEIGjAA)
+1. [Joe Celko's SQL Puzzles and Answers] (https://books.google.ie/books?id=krv8CUJU44sC&printsec=frontcover&dq=Where+to+get+Joe+Celko%27s+SQL+Puzzles+and+Answers&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false)
 2. [Book: Oracle Database 12c Backup and Recovery Survival Guide] (https://www.amazon.com/Oracle-Database-Recovery-Survival-ebook/dp/B00FF1PHAW%3FSubscriptionId%3DAKIAJBDF5XQBATGDX4VQ%26tag%3Dspea06-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FF1PHAW)
 3. [SQL Pocket Guide] 	(http://shop.oreilly.com/product/0636920013471.do)
 4. [SQL Cookbook] 		(http://shop.oreilly.com/product/9780596009762.do)
 5. [Unix for Oracle DBAs Pocket Reference] (https://www.amazon.com/Unix-Oracle-DBAs-Pocket-Reference-ebook/dp/B0026OR2VS/ref=sr_1_3?s=books&ie=UTF8&qid=1478778363&sr=1-3&keywords=Oracle+dba+scripts)	
 6. [Safari] (http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
+7. [Book: The Method R Guide to Mastering Oracle Trace Data, Second Edition] (https://books.google.ie/books?id=f---DAEACAAJ&dq=he+Method+R+Guide+to+MASTERING+ORACLE+TRACE+DATA&hl=en&sa=X&ved=0ahUKEwj60f-qu6jQAhVoIcAKHQYQDAIQ6AEIGjAA)
 
 
 ## Video:
