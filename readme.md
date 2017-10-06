@@ -59,7 +59,7 @@
 1. [Network commands] (https://blog.pandorafms.org/network-commands/)
 
 
-## Books and eBooks:
+## Books, ebook and Pdf:
 
 1. [Joe Celko's SQL Puzzles and Answers] (https://books.google.ie/books?id=krv8CUJU44sC&printsec=frontcover&dq=Where+to+get+Joe+Celko%27s+SQL+Puzzles+and+Answers&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false)
 2. [Book: Oracle Database 12c Backup and Recovery Survival Guide] (https://www.amazon.com/Oracle-Database-Recovery-Survival-ebook/dp/B00FF1PHAW%3FSubscriptionId%3DAKIAJBDF5XQBATGDX4VQ%26tag%3Dspea06-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FF1PHAW)
