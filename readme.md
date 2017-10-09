@@ -85,7 +85,7 @@
 11. [Oracle Learning Library] (https://www.youtube.com/user/OracleLearning/playlists)
 12. [OTN Database Community] (https://www.youtube.com/user/OTNDatabasechannel/videos)
 13. [MIT: Signal Processing on Databases] (https://www.youtube.com/watch?v=zNGKX-4PRsk&list=PLUl4u3cNGP62DPmPLrVyYfk3-Try_ftJJ)
-14. [Stanford: Database class] (https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
+14. [Stanford: Introductory Database class] (https://www.youtube.com/watch?v=D-k-h0GuFmE&list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
 15. [Safari] (http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
 
 
