@@ -38,7 +38,14 @@
 * Ports: 2483 - 2484
 
 
-## Reading and News Sites:
+## Interests
+1. [Relational Databases]()
+2. [Relational Database Design]()
+3. [SQL]()
+4. [PLSQL]()
+5. [TSQL]()
+
+
 
 ### Databases
 
@@ -49,10 +56,10 @@
 5. [Oracle Application Express (Build applications using only your web browser)](https://apex.oracle.com/en/)
 6. [Tom's IT Pro](http://www.tomsitpro.com/)
 7. [DBA Corner](http://www.dbta.com/Columns/DBA-Corner/)
-
-### Linux OS
-
-1. [Some Basic Linux Commands I Have Used During My Linux Journey – Part 1](http://www.unixmen.com/basic-linux-commands-used-linux-journey/)
+8. [Microsoft Database training for beginners](https://mva.microsoft.com/en-US/training-courses/database-fundamentals-8243?l=TEBiexJy_5904984382)
+9. [HR Schema SQL and PLSQL questions](http://www.srikanthtechnologies.com/oracle/dec9/hrqueries.html)
+10. [Say NO to Venn Diagrams When Explaining JOINs](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+11. [Genealogy of Relational Database Management Systems](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V4_print.pdf)
 
 
 
@@ -93,6 +100,9 @@
   * [Oracle Database 12c: SQL Fundamentals](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-061) 
   * [Oracle Database 12c Administration](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-075)
   * [Best Database Certifications For 2017](http://www.tomsitpro.com/articles/database-certifications,2-664.html)	
+3. MCSA: SQL Server 
+  * [SQL Server Associate Certificate and training](https://www.microsoft.com/en-us/learning/mcsa-sql-2016-certification.aspx) 
+  * [Microsoft SQL Server Certificate](https://www.microsoft.com/en-ie/learning/sql-certification.aspx)
 
 
 ## Tutorials
