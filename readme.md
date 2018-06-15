@@ -36,6 +36,10 @@
 5. [Unix for Oracle DBAs Pocket Reference](https://www.amazon.com/Unix-Oracle-DBAs-Pocket-Reference-ebook/dp/B0026OR2VS/ref=sr_1_3?s=books&ie=UTF8&qid=1478778363&sr=1-3&keywords=Oracle+dba+scripts)	
 6. [Safari](http://techbus.safaribooksonline.com/home?uicode=oracle&sessionid=dd6e43f2-1896-49e2-8528-61b1399c1112)
 7. [Book: The Method R Guide to Mastering Oracle Trace Data, Second Edition](https://books.google.ie/books?id=f---DAEACAAJ&dq=he+Method+R+Guide+to+MASTERING+ORACLE+TRACE+DATA&hl=en&sa=X&ved=0ahUKEwj60f-qu6jQAhVoIcAKHQYQDAIQ6AEIGjAA)
+8. [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0201752840/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0201752840&pd_rd_r=GGX1J4DV6ETV86J0D9AH&pd_rd_w=okIPK&pd_rd_wg=vL05u&psc=1&refRID=GGX1J4DV6ETV86J0D9AH)
+9. [SQL Queries for Mere Mortals](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0321444434/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0321444434&pd_rd_r=CGHXGSHX5TFCJZ8249EJ&pd_rd_w=KGpwY&pd_rd_wg=tgs25&psc=1&refRID=CGHXGSHX5TFCJZ8249EJ)
+10. [Relational Database Design Clearly Explained (The Morgan Kaufmann Series in Data Management Systems)](https://www.amazon.co.uk/Relational-Database-Explained-Kaufmann-Management/dp/1558608206/ref=sr_1_3?ie=UTF8&s=books&qid=1229597641&sr=8-3)
+
 
 
 ## Video:
